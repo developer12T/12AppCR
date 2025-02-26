@@ -1,4 +1,4 @@
-package com.example.u_12sale_app
+package com.example.cr_12sale_app
 
 import io.flutter.embedding.android.FlutterActivity
 

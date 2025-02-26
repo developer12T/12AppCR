@@ -85,6 +85,8 @@ class _LoginScreenState extends State<LoginScreen> with RouteAware {
 
             WidgetsBinding.instance.addPostFrameCallback((_) {
               toastification.show(
+                autoCloseDuration: const Duration(seconds: 5),
+                style: ToastificationStyle.flatColored,
                 context: context,
                 title: isConnected
                     ? Text(

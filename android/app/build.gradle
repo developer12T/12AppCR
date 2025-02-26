@@ -7,7 +7,7 @@ plugins {
 }
 
 android {
-    namespace = "com.example.u_12sale_app"
+    namespace = "com.example.cr_12sale_app"
     compileSdk = flutter.compileSdkVersion
     ndkVersion = flutter.ndkVersion
     compileSdkVersion = 34 // Use at least 31, preferably 33 or higher
@@ -25,7 +25,7 @@ android {
 
     defaultConfig {
         // multiDexEnabled true
-        applicationId = "com.example.u_12sale_app"
+        applicationId = "com.example.cr_12sale_app"
         minSdk = 21  // Ensure minSdk is at least 21
         targetSdk = 34
         versionCode = 1

@@ -98,6 +98,7 @@ dependencies:
   flutter_svg: ^2.0.17
   flutter_esc_pos_utils: ^1.0.1
   custom_sliding_segmented_control: ^1.8.5
+  flutter_launcher_icons: ^0.14.3
   dartx: ^1.2.0
 
 dev_dependencies:
@@ -109,6 +110,7 @@ dev_dependencies:
   # package. See that file for information about deactivating specific lint
   # rules and activating additional ones.
   flutter_lints: ^4.0.0
+
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
