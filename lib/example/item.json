@@ -1,0 +1,68 @@
+{
+    "items": [
+        {
+            "itemname": "ผงปรุงรสหมู ฟ้าไทย 10g x12x20",
+            "qtytext": "21",
+            "unit": "หีบ",
+            "OBSAPR": "1455.00",
+            "disamount": "0.00",
+            "itemamount": "2910.00"
+        },
+        {
+            "itemname": "ผงปรุงรสหมู ฟ้าไทย 10g x24x10 ชนิดแผง",
+            "qtytext": "1",
+            "unit": "ซอง",
+            "OBSAPR": "762.00",
+            "disamount": "0.00",
+            "itemamount": "762.00"
+        },
+        {
+            "itemname": "ผงปรุงรสหมู ฟ้าไทย 80g x10x8 แถมช้อนจีน",
+            "qtytext": "1",
+            "unit": "ถุง",
+            "OBSAPR": "0.00",
+            "disamount": "0.00",
+            "itemamount": "0.00"
+        },
+        {
+            "itemname": "ผงปรุงรสหมู ฟ้าไทย 450g x12 แถมชามพลาสติก",
+            "qtytext": "6",
+            "unit": "แผง",
+            "OBSAPR": "0.00",
+            "disamount": "102.00",
+            "itemamount": "0.00"
+        },
+        {
+            "itemname": "ผงปรุงรสหมู ฟ้าไทย 80g x10x8 แถมเห็ด 10g",
+            "qtytext": "13",
+            "unit": "กระสอบ",
+            "OBSAPR": "0.00",
+            "disamount": "0.00",
+            "itemamount": "0.00"
+        },
+        {
+            "itemname": "ผงปรุงรสไก่ ฟ้าไทย 80g x10x8",
+            "qtytext": "2",
+            "unit": "แพ็ค",
+            "OBSAPR": "0.00",
+            "disamount": "0.00",
+            "itemamount": "0.00"
+        },
+        {
+            "itemname": "ผงปรุงรสไก่ ฟ้าไทย 900g x6",
+            "qtytext": "1",
+            "unit": "กล่อง",
+            "OBSAPR": "0.00",
+            "disamount": "0.00",
+            "itemamount": "0.00"
+        },
+        {
+            "itemname": "ผงปรุงรสไก่ ฟ้าไทย 850g x6 แถมรสไก่ 80g",
+            "qtytext": "7",
+            "unit": "กระปุก",
+            "OBSAPR": "0.00",
+            "disamount": "0.00",
+            "itemamount": "0.00"
+        }
+    ]
+}

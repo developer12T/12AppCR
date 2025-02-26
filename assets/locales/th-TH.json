@@ -1,0 +1,285 @@
+{
+    "gobal": {
+        "header": {
+            "online_status": "คุณกำลังออนไลน์",
+            "offline_status": "คุณกำลังออฟไลน์"
+        },
+        "camera_button": {
+            "no_image": "ไม่มีภาพ",
+            "button": "กดเพื่อถ่ายรูป",
+            "appbar": "ตัวอย่างการถ่ายรูป"
+        }
+    },
+    "chart": {
+        "item_chart": {
+            "title": "สรุปจำนวนการขายสินค้า",
+            "count": "จำนวน",
+            "month": "เดือน"
+        }
+    },
+    "menu": {
+        "home": "หน้าหลัก",
+        "shop": "ร้านค้า",
+        "report": "รายงานขาย",
+        "manage": "จัดการ",
+        "route": "เข้าเยี่ยม",
+        "more": "อื่นๆ"
+    },
+    "dashboard": {
+        "lange": "th",
+        "time": "เวลา",
+        "menu": {
+            "sale_report": "รายงานขาย",
+            "data_analysis": "ข้อมูลเชิงลึก",
+            "setting": "ตั้งค่า",
+            "campaign": "แคมเปญ",
+            "history": "ประวัติ",
+            "schedule": "กําหนดการ",
+            "logistic": "โลจิสติกส์",
+            "send_money": "ส่งเงิน",
+            "mall": "มอลล์",
+            "credit_limit": "เครดิต",
+            "warehouse": "คลัง",
+            "more": "อื่นๆ"
+        },
+        "weightcude_card": {
+            "title": "น้ําหนักสินค้า",
+            "net_weight": "น้ําหนักสุทธิ",
+            "gross_weight": "น้ําหนักรวม",
+            "utilized_weight": "น้ําหนักที่ใช้",
+            "unit": "หน่วย",
+            "ton_unit": "ต.",
+            "gilo_unit": "กก."
+        }
+    },
+    "route": {
+        "title": "เส้นทางเข้าเยี่ยม",
+        "month": "เดือน",
+        "route_table": {
+            "date": "วันที่",
+            "route": "เส้นทาง",
+            "status": "สถานะ"
+        },
+        "store_screen": {
+            "title": "เข้าเยี่ยม",
+            "checkin": "เช็คอิน",
+            "order": "ขายแล้ว",
+            "cancel": "ขายไม่ได้",
+            "all": "ทั้งหมด"
+        },
+        "shop_route_table": {
+            "customer_no": "รหัสร้าน",
+            "customer_name": "ชื่อร้านค้า",
+            "status": "สถานะ"
+        },
+        "detail_screen": {
+            "store_id": "รหัสร้าน",
+            "store_name": "ร้าน",
+            "store_address": "ที่อยู่",
+            "title": "เข้าเยี่ยม",
+            "cancel": {
+                "title": "ขายไม่ได้",
+                "hint": "เลือกเหตุผล",
+                "case": "ระบุสาเหตุที่ร้านค้าไม่ซื้อ",
+                "store_id": "รหัสร้าน",
+                "store_name": "ร้าน",
+                "submit": "บันทึก"
+            },
+            "order_button": "ขาย",
+            "camera": {
+                "title": "ถ่ายรูป",
+                "hint": "จัดเก็บรูปภาพ",
+                "submit": "บันทึกรูปภาพ"
+            },
+            "credit_note_button": "คืน"
+        },
+        "order_screen": {
+            "title": "การสั่งซื้อสินค้า",
+            "store_id": "รหัสร้าน",
+            "store_name": "ร้าน",
+            "dropdown": {
+                "group": "กลุ่มสินค้า",
+                "flavour": "รสชาติ",
+                "size": "ขนาด",
+                "brand": "แบรนด์"
+            }
+        },
+        "shop_cart_screen": {
+            "store_id": "รหัสร้านค้า",
+            "store_name": "ร้าน",
+            "title": "ตะกร้าสินค้า",
+            "item_selected": "รายการสินค้า ที่เลือก",
+            "select_item": "เลือกสินค้าเพิ่มเติม",
+            "create_order": "สร้างรายการ",
+            "qty": "จำนวน",
+            "amount": "ราคาสุทธิ",
+            "item": "รายการ",
+            "bath": "บาท"
+        },
+        "promotion_screen": {
+            "title": "โปรโมชั่น และส่วนลด",
+            "giveaway": "ของแถม",
+            "discount": "ส่วนลด",
+            "next_button": "ถัดไป"
+        },
+        "verify_screen": {
+            "title": "ยืนยันการสั่งซื้อ",
+            "sale_name": "พนักงานขาย",
+            "customer_no": "รหัสร้านค้า",
+            "customer_name": "ชื่อร้านค้า",
+            "address": "ที่อยู่",
+            "customer_phone": "เบอร์ร้าน",
+            "tax_no": "เลขที่ผู้เสียภาษี",
+            "total": "ยอดรวม",
+            "discount": "ส่วนลดท้ายบิล",
+            "net_price": "ราคาไม่รวมภาษี",
+            "vat": "ภาษี 7% (VAT)",
+            "amount": "ยอดชำระสุทธิ",
+            "save": "บันทึกรายการ"
+        },
+        "order_detail_screen": {
+            "title": "รายละเอียดสินค้า",
+            "item_code": "รหัสสินค้า",
+            "item_qty": "จำนวน",
+            "item_price": "ราคา",
+            "promotion": "โปรโมทชั่น",
+            "qty": "จํานวน",
+            "price": "ราคา",
+            "toasting_success": "เพิ่มรายการสำเร็จ",
+            "add_button": "เพิ่ม"
+        }
+    },
+    "store": {
+        "title": "ร้านค้า",
+        "store_all": "ทั้งหมด",
+        "store_new": "ใหม่",
+        "store_card_all": {
+            "storeId": "รหัสร้าน",
+            "route": "เส้นทาง",
+            "address": "ที่อยู่",
+            "detail": "รายละเอียด"
+        },
+        "store_card_new": {
+            "storeId": "รหัสร้าน",
+            "route": "เส้นทาง",
+            "address": "ที่อยู่",
+            "agree": "อนุมัติ",
+            "reject": "ไม่อนุมัติ",
+            "pendding": "รออนุมัติ"
+        },
+        "detail_screen": {
+            "back_button": "กลับ",
+            "next_button": "ถัดไป",
+            "submit_button": "ยืนยัน",
+            "verify_process": "ความยินยอม",
+            "data_process": "ข้อมูลร้าน",
+            "address_process": "ที่อยู่",
+            "submit_process": "ยืนยัน"
+        },
+        "processtimeline_screen": {
+            "appbar": "เพิ่มร้านค้า",
+            "back_button": "กลับ",
+            "next_button": "ถัดไป",
+            "submit_button": "ยืนยัน",
+            "step1": "ความยินยอม",
+            "step2": "ข้อมูลร้าน",
+            "step3": "ที่อยู่",
+            "step4": "ยืนยัน",
+            "similar_title": "ร้านค้าที่คล้ายกัน",
+            "toasting_similar": "ที่มีความคล้ายกัน",
+            "toasting_similar_des": "พบร้านค้าที่คล้ายกัน",
+            "toasting_success": "บันทึกข้อมูลสําเร็จ",
+            "toasting_error": "เกิดข้อผิดพลาดในการบันทึกข้อมูล",
+            "alert": {
+                "title": "ยืนยัน",
+                "desc": "กรุณาตรวจเช็คความถูกต้องก่อนกดยืนยันการบันทึกข้อมูล",
+                "cancel": "ยกเลิก",
+                "submit": "ตกลง"
+            },
+            "toasting": {
+                "message": "กรุณากรอก",
+                "message_selected": "กรุณาเลือก",
+                "name": "ชื่อร้านค้า",
+                "phone": "เบอร์โทร",
+                "store_type": "ประเภทร้าน",
+                "route": "เส้นทาง",
+                "image": "กรุณาอัพรูปหน้าร้านค้า",
+                "address": "ที่อยู่",
+                "province": "จังหวัด",
+                "district": "อำเภท/เขต",
+                "sub_district": "ตำบล/แขวง"
+            }
+        },
+        "store_policy": {
+            "title": "ขอความยินยอม",
+            "verify_policy": "ฉันยินยอมให้เก็บข้อมูล"
+        },
+        "store_data_screen": {
+            "title": "ข้อมูลร้านค้า",
+            "title_image": "ภาพถ่าย",
+            "image_store": "หน้าร้านค้า",
+            "image_taxId": "ภ.พ.20",
+            "image_identify": "สำเนาบัตรปปช.",
+            "input_name": {
+                "name": "ชื่อร้านค้า",
+                "hint": "ไม่เกิน 36 ตัวอักษร"
+            },
+            "input_taxId": {
+                "name": "เลขประจำตัวผู้เสียภาษี",
+                "hint": "ไม่เกิน 13 ตัวอักษร"
+            },
+            "input_tel": {
+                "name": "โทรศัพท์",
+                "hint": "ไม่เกิน 10 ตัวอักษร"
+            },
+            "input_shoptype": {
+                "name": "เลือกร้านค้า"
+            },
+            "input_route": {
+                "name": "เลือกรูท"
+            },
+            "input_lineId": {
+                "name": "ไลน์ไอดี",
+                "hint": "ไม่เกิน 36 ตัวอักษร"
+            },
+            "input_note": {
+                "name": "หมายเหตุ",
+                "hint": "ไม่เกิน 36 ตัวอักษร"
+            }
+        },
+        "store_address_screen": {
+            "title": "ที่อยู่",
+            "input_address": {
+                "name": "ที่อยู่",
+                "hint": "ไม่เกิน 36 ตัวอักษร"
+            },
+            "input_province": {
+                "name": "เลือกจังหวัด"
+            },
+            "input_district": {
+                "name": "เลือกอำเภอ/เขต"
+            },
+            "input_subdistrict": {
+                "name": "เลือกตำบล/แขวง"
+            },
+            "input_poscode": {
+                "name": "รหัสไปรษณีย์"
+            }
+        },
+        "store_verify_screen": {
+            "title": "ข้อมูลร้านค้า",
+            "title_image": "ภาพถ่าย",
+            "name": "ชื่อ",
+            "phone": "เบอร์โทรศัพท์",
+            "route": "เส้นทาง",
+            "shopType": "ประเภทร้านค้า",
+            "taxId": "เลขผู้เสียภาษี",
+            "lineId": "ไอดีไลน์",
+            "note": "หมายเหตุ",
+            "address": "ที่อยู่",
+            "image_store": "หน้าร้านค้า",
+            "image_taxId": "ภ.พ.20",
+            "image_identify": "สำเนาบัตรปปช."
+        }
+    }
+}

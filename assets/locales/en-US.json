@@ -1,0 +1,285 @@
+{
+    "gobal": {
+        "header": {
+            "online_status": "You're Online",
+            "offline_status": "You're Offline"
+        },
+        "camera_button": {
+            "no_image": "No Image",
+            "button": "Take a Picture",
+            "appbar": "Example Camera"
+        }
+    },
+    "chart": {
+        "item_chart": {
+            "title": "Item Summarize",
+            "count": "Count",
+            "month": "Month"
+        }
+    },
+    "menu": {
+        "home": "Home",
+        "shop": "Store",
+        "report": "Sale Report",
+        "manage": "Manage",
+        "route": "Route Visit",
+        "more": "More"
+    },
+    "dashboard": {
+        "lange": "en",
+        "time": "Time",
+        "menu": {
+            "sale_report": "Sale Report",
+            "data_analysis": "Data Analysis",
+            "setting": "Setting",
+            "campaign": "Campaign",
+            "history": "History",
+            "schedule": "Schedule",
+            "logistic": "Logistic",
+            "send_money": "Send Money",
+            "mall": "Mall",
+            "credit_limit": "Credit",
+            "warehouse": "Warehouse",
+            "more": "More"
+        },
+        "weightcude_card": {
+            "title": "Weight Cude",
+            "net_weight": "Net Weight",
+            "gross_weight": "Gross Weight",
+            "utilized_weight": "Utilized Weight",
+            "unit": "Unit",
+            "ton_unit": "t.",
+            "gilo_unit": "kg."
+        }
+    },
+    "route": {
+        "title": "Route",
+        "month": "Month",
+        "route_table": {
+            "date": "Date",
+            "route": "Route",
+            "status": "Status"
+        },
+        "store_screen": {
+            "title": "Visit",
+            "checkin": "Chekc-in",
+            "order": "Ordered",
+            "cancel": "Cancel Order",
+            "all": "All"
+        },
+        "shop_route_table": {
+            "customer_no": "Store ID",
+            "customer_name": "Store Name",
+            "status": "Store Status"
+        },
+        "detail_screen": {
+            "store_id": "Store ID",
+            "store_name": "Store",
+            "store_address": "Address",
+            "title": "Visit",
+            "cancel": {
+                "title": "Cloud not sell",
+                "hint": "Selected Cause",
+                "case": "Cause why could't sell",
+                "store_id": "Store ID",
+                "store_name": "Store",
+                "submit": "Submit"
+            },
+            "order_button": "Order",
+            "camera": {
+                "title": "Take a photo",
+                "hint": "Save Image",
+                "submit": "Submit Iamge"
+            },
+            "credit_note_button": "CN"
+        },
+        "order_screen": {
+            "title": "Order List",
+            "store_id": "Store ID",
+            "store_name": "Name",
+            "dropdown": {
+                "group": "Group",
+                "flavour": "Flavour",
+                "size": "Size",
+                "brand": "Brand"
+            }
+        },
+        "shop_cart_screen": {
+            "store_id": "Store ID",
+            "store_name": "Store",
+            "title": "Order Cart",
+            "item_selected": "Order Selected",
+            "select_item": "Add Item",
+            "create_order": "Crate Order",
+            "qty": "Qulity",
+            "amount": "Amount",
+            "item": "Item",
+            "bath": "Bath"
+        },
+        "promotion_screen": {
+            "title": "Promotion and Discount",
+            "giveaway": "Giveaway",
+            "discount": "Discount",
+            "next_button": "Next"
+        },
+        "verify_screen": {
+            "title": "Submit Order",
+            "sale_name": "Sale Name",
+            "customer_no": "Store ID",
+            "customer_name": "Store Name",
+            "address": "Address",
+            "customer_phone": "Phone",
+            "tax_no": "Tax ID",
+            "total": "Total",
+            "discount": "Discount",
+            "net_price": "Net Price",
+            "vat": "VAT 7% ",
+            "amount": "Amount",
+            "save": "Submit Order"
+        },
+        "order_detail_screen": {
+            "title": "Item Detail",
+            "item_code": "Item Code",
+            "item_qty": "Qulity",
+            "item_price": "Price",
+            "promotion": "Promotion",
+            "qty": "qty",
+            "price": "price",
+            "toasting_success": "Add Item Success",
+            "add_button": "Add"
+        }
+    },
+    "store": {
+        "title": "Store",
+        "store_all": "All",
+        "store_new": "New",
+        "store_card_all": {
+            "storeId": "Store ID",
+            "route": "Route",
+            "address": "Address",
+            "detail": "Detail"
+        },
+        "store_card_new": {
+            "storeId": "Store ID",
+            "route": "Route",
+            "address": "Address",
+            "agree": "Accept",
+            "reject": "Reject",
+            "pendding": "Pendding"
+        },
+        "detail_screen": {
+            "back_button": "Back",
+            "next_button": "Next",
+            "submit_button": "Submit",
+            "verify_process": "Policy",
+            "data_process": "Store Details",
+            "address_process": "Address",
+            "submit_process": "Submit"
+        },
+        "processtimeline_screen": {
+            "appbar": "Add Store",
+            "back_button": "Back",
+            "next_button": "Next",
+            "submit_button": "Submit",
+            "step1": "Policy",
+            "step2": "Store Details",
+            "step3": "Address",
+            "step4": "Submit",
+            "similar_title": "Similar Store",
+            "toasting_similar": "Find Store Similar",
+            "toasting_similar_des": "Find Store Similar",
+            "toasting_success": "Submit Success",
+            "toasting_error": "Find Worng process add Store",
+            "alert": {
+                "title": "Submit",
+                "desc": "Plesae re-check data before add store Submit",
+                "cancel": "cancel",
+                "submit": "Submit"
+            },
+            "toasting": {
+                "message": "Please type",
+                "message_selected": "Please Selected",
+                "name": "Store Name",
+                "phone": "Phone",
+                "store_type": "Store Type",
+                "route": "Route",
+                "image": "Please add store image",
+                "address": "Address",
+                "province": "Province",
+                "district": "District",
+                "sub_district": "Sub District"
+            }
+        },
+        "store_policy": {
+            "title": "Policy",
+            "verify_policy": "Accept Policy"
+        },
+        "store_data_screen": {
+            "title": "Store Details",
+            "title_image": "Image",
+            "image_store": "Store",
+            "image_taxId": "Phor.Por.20",
+            "image_identify": "Identify Card",
+            "input_name": {
+                "name": "Store Name",
+                "hint": "Max 36 Characters"
+            },
+            "input_taxId": {
+                "name": "Tax ID",
+                "hint": "Max 13 Characters"
+            },
+            "input_tel": {
+                "name": "Phone",
+                "hint": "Max 10 Characters"
+            },
+            "input_shoptype": {
+                "name": "Store Type"
+            },
+            "input_route": {
+                "name": "Route"
+            },
+            "input_lineId": {
+                "name": "Line ID",
+                "hint": "Max 36 Characters"
+            },
+            "input_note": {
+                "name": "Note",
+                "hint": "Max 36 Characters"
+            }
+        },
+        "store_address_screen": {
+            "title": "Address",
+            "input_address": {
+                "name": "Address",
+                "hint": "Max 36 Characters"
+            },
+            "input_province": {
+                "name": "Province"
+            },
+            "input_district": {
+                "name": "District"
+            },
+            "input_subdistrict": {
+                "name": "Sub District"
+            },
+            "input_poscode": {
+                "name": "Poscode"
+            }
+        },
+        "store_verify_screen": {
+            "title": "Verify Store",
+            "title_image": "Image",
+            "name": "Name",
+            "phone": "Phone",
+            "route": "Route",
+            "shopType": "Store Type",
+            "taxId": "Tax ID",
+            "lineId": "Line ID",
+            "note": "Note",
+            "address": "Address",
+            "image_store": "Store",
+            "image_taxId": "Phor.Por.20",
+            "image_identify": "Identify Card"
+        }
+    }
+}
