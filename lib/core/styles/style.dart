@@ -371,7 +371,7 @@ class Styles {
         textStyle: TextStyle(
           fontSize: getResponsiveFontSize(context, 32),
           fontWeight: FontWeight.w600,
-          color: Color(0xFF00569D),
+          color: Color(0xFFC23B22),
         ),
       );
 
@@ -379,7 +379,7 @@ class Styles {
         textStyle: TextStyle(
           fontSize: getResponsiveFontSize(context, 24),
           fontWeight: FontWeight.w600,
-          color: Color(0xFF00569D),
+          color: Color(0xFFC23B22),
         ),
       );
 
@@ -387,7 +387,7 @@ class Styles {
         textStyle: TextStyle(
           fontSize: getResponsiveFontSize(context, 18),
           fontWeight: FontWeight.normal,
-          color: Color(0xFF00569D),
+          color: Color(0xFFC23B22),
         ),
       );
 
@@ -395,7 +395,7 @@ class Styles {
         textStyle: TextStyle(
           fontSize: getResponsiveFontSize(context, 18),
           fontWeight: FontWeight.w600,
-          color: Color(0xFF00569D),
+          color: Color(0xFFC23B22),
         ),
       );
 
@@ -403,8 +403,8 @@ class Styles {
   // static const Color primaryColor = Color(0xFFed1b24);
   // static const Color secondaryColor = Color(0xFFf48c94);
 
-  static const Color primaryColor = Color(0xFF00569D);
-  static const Color secondaryColor = Color(0xFF8fd7f5);
+  static const Color primaryColor = Color(0xFFC23B22);
+  static const Color secondaryColor = Color(0xFFF8858B);
   static const Color grey = Colors.grey;
   static const Color white = Colors.white;
 
